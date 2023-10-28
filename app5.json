@@ -2,5 +2,5 @@
     "apiUrl" : "https://app.mflixtv.xyz/api/",
     "pushUpdate" : "off",
     "newPackage" : "",
-    "NetworkAds" : "x"
+    "NetworkAds" : "applovin"
 }
